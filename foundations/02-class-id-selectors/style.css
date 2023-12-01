@@ -1,0 +1,22 @@
+.peach-class{
+    font-size: 18px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(238, 161, 161);
+
+}
+
+.big-class{
+    font-size: 24px;
+}
+
+#purple-on-white{
+    font-size: 36px;
+    color: #3b3bc3;
+    background-color: hsl(0, 0, 100);
+}
+
+#black-on-green{
+    font-size: 24px;
+    font-weight: bolder;
+    background-color: rgb(67, 224, 67);
+}
